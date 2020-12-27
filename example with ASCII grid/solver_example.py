@@ -37,7 +37,7 @@ def run():
     try_another_dialogue()
 
 def welcome():
-    print("Welcome to the showcase of my Sudoku Solver! This is the version without an ASCII grid*")
+    print("Welcome to the showcase of my Sudoku Solver!")
     print("Choose a number from 1 to 3 to display and then solve one of three example sudokus.")
 
 def get_sudoku_input_loop():
